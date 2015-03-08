@@ -1,41 +1,53 @@
 # hacettepe-workshop
 
-Hacettepe cyber security workshop
+Hacettepe cyber security workshop.
 
-## 1
+## exercises-1
+- nasm -f elf32 1.s -o 1.o
+- ld -m elf\_i386 1.o -o 1
+
+## exercises-2
+- gcc 2.c -o 2
+- gcc 2.c -S
+
+## exercises-3
+- gcc 3.c -o 3 -m32 -O0 
+- echo $?
+
+## demo-1
 - file demo-1
 
-## 2
+## demo-2
 - file demo-2
 
-## 3
+## demo-3
 - file demo-3
 - tar xvf demo-3
 
-## 4
+## demo-4
 - file demo-4
 - binwalk demo-4
 - dd if=demo-4 of=4.elf skip=14654 count=4284 bs=1
 - dd if=demo-4 of=4.gz skip=19618 bs=1
 - gunzip 4.gz
 
-## 5
+## demo-5
 - file demo-5
 - exiftool demo-5
 
-## 6
+## demo-6
 - file 6
 - bvi 6
 - 89 50 4E 47 0D 0A 1A 0A
 - 7F 45 4C 46 01 01 00 00
 
-## 7
+## demo-7
 - gcc demo-7.c -o demo-7 -m32
 - file demo-7
 - ./demo-7 , ./demo-7 blabla
 - strings demo-7
 
-## 8
+## demo-8
 - gcc demo-8.c -o demo-8 -m32 -O3 -g
 - file demo-8
 - ./demo-8, ./demo-8 blabla
@@ -45,13 +57,13 @@ Hacettepe cyber security workshop
 - objdump -D demo-8 | grep 08048330 -A 37
 - ida
 
-## 8.1
+## demo-8.1
 - strip demo-8.1
 - objdump -D demo-8.1
 - readelf -h demo-8.1
 - ida
 
-## 9
+## demo-9
 - gcc demo-9.c -o demo-9 -m32 -O3
 - strip demo-9
 - file demo-9
@@ -70,7 +82,7 @@ Hacettepe cyber security workshop
 - x $esp
 - x/s $esp
 
-## 10
+## demo-10
 - peid
 - ida
 - ollydbg
