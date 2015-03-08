@@ -70,6 +70,12 @@ Hacettepe cyber security workshop
 - x $esp
 - x/s $esp
 
+## 10
+- peid
+- ida
+- ollydbg
+- binary patch
+
 # Resources
 - http://beginners.re/
 - http://thelegendofrandom.com/blog/sample-page
