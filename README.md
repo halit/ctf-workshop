@@ -79,6 +79,7 @@ Hacettepe cyber security workshop
 # Requirements
 - GNU/Linux, windows xp
 - readelf, objdump, exiftool, xxd, hexdump, gdb
+- file, strings, strip, gcc, bvi, binwalk
 - ollydbg, ida, peid
 
 # Resources
