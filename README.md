@@ -76,6 +76,11 @@ Hacettepe cyber security workshop
 - ollydbg
 - binary patch
 
+# Requirements
+- GNU/Linux, windows xp
+- readelf, objdump, exiftool, xxd, hexdump, gdb
+- ollydbg, ida, peid
+
 # Resources
 - http://beginners.re/
 - http://thelegendofrandom.com/blog/sample-page
