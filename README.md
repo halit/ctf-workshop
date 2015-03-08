@@ -69,3 +69,16 @@ Hacettepe cyber security workshop
 - x/16i $eip
 - x $esp
 - x/s $esp
+
+# Resources
+- http://beginners.re/
+- http://thelegendofrandom.com/blog/sample-page
+- http://maijin.github.io/radare2book/
+- http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+- http://www.unknownroad.com/rtfm/gdbtut/
+- https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PLyqno_bgl3e-zLBZGdi_zsPQYPQUlZYe4
+- http://0xax.blogspot.com.tr/search/label/asm
+- http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
+- https://quequero.org/downloads/disassemblers-debuggers/
+- http://www.vxheaven.org/lib/vsc04.html
+- http://community.coresecurity.com/~gera/InsecureProgramming/
