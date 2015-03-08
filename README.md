@@ -77,7 +77,7 @@ Hacettepe cyber security workshop
 - binary patch
 
 # Requirements
-- GNU/Linux, windows xp
+- GNU/Linux, windows xp, python 2.7
 - readelf, objdump, exiftool, xxd, hexdump, gdb
 - file, strings, strip, gcc, bvi, binwalk
 - ollydbg, ida, peid
