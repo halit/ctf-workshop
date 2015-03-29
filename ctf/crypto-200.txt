@@ -1,0 +1,2 @@
+Key: 8AF326AA4850225B75C592D4CE19CCF5
+Bayrak formatı: FLAG_{key}

@@ -1,0 +1,1 @@
+Linux altında çalıştırılabilir dosyaların formatı nedir? Bayrak formatı: HACETTEPE_{format}

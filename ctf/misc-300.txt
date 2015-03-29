@@ -1,0 +1,1 @@
+Arch Linux işletim sisteminin güvenlik uzmanları için uyarlanmış olan dağıtımının adı nedir? Bayrak formatı: HACETTEPE_{isim}

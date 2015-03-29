@@ -1,0 +1,1 @@
+Derlenmiş dosyaları GNU/Linux altında debug edebileceğimiz programın adı nedir? Bayrak formatı: HACETTEPE_{program}
