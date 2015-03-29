@@ -1,0 +1,1 @@
+Dosyaları magic header bilgisinden tanıyan programın adı nedir? Bayrak formatı: HACETTEPE_{program}

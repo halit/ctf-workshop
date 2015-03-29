@@ -1,0 +1,1 @@
+GNU/Linux altında kerneli çağırmak için kaç numaralı sistem çağrısı yapılır? Dosya formatı: HACETTEPE_{hex_numara}

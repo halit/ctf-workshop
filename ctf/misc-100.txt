@@ -1,0 +1,1 @@
+GNU projesinde yazılan uygulamaların genel adı nedir? Bayrak formatı: HACETTEPE_{isim}

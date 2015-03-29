@@ -1,0 +1,1 @@
+Dünya'nın en iyi bateristlerinden birisinin ismi nedir? Bayrak formatı: FLAG_{isim} Ipucu: Hepsi küçük harf.

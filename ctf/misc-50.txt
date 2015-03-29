@@ -1,0 +1,2 @@
+flag is angara
+Bayrak formatı: FLAG_{flag}
